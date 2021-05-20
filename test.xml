@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AllMonsters>
+    <Monster id="1">
+        <Name>Barioth</Name>
+        <foundIn>Hoarfrost Reach</foundIn>
+        <species>Flying Wyvern</species>
+        <AvgSize>2232.32</AvgSize>
+        <HP>19,200</HP>
+        <description>A returning Flying Wyvern characterized by its powerful and fast attacks. With its potent tail swipes, sharp claws and pouncing, this foe, while tough, can still be beaten either solo or in a group
+
+            This fast-moving monster deals both physical damage and elemental damage, shooting out powerful blasts of chilled-wind that can inflict Iceblight.</description>
+        <weaknesses>
+            <fire>true</fire>
+            <thunder>true</thunder>
+            <water>false</water>
+            <ice>false</ice>
+            <dragon>false</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>false</fire>
+            <thunder>false</thunder>
+            <water>true</water>
+            <ice>true</ice>
+            <dragon>false</dragon>
+        </resistances>
+    </Monster>
+
+    <Monster id="2">
+        <Name>Safi'Jiva</Name>
+        <foundIn>Secluded Valley</foundIn>
+        <species>Elder Dragon</species>
+        <AvgSize>4799.78</AvgSize>
+        <HP>40,000</HP>
+        <description>Safi'jiiva is a Large Monster in Monster Hunter World (MHW).(Mufeto jīvu~a) in Japanese. It is the adult form of Xeno'jiiva, and can only be fought in Master Rank.</description>
+        <weaknesses>
+            <fire>false</fire>
+            <thunder>false</thunder>
+            <water>false</water>
+            <ice>false</ice>
+            <dragon>true</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>true</fire>
+            <thunder>true</thunder>
+            <water>true</water>
+            <ice>true</ice>
+            <dragon>false</dragon>
+        </resistances>
+    </Monster>
+
+    <Monster id="3">
+        <Name>Xeno'Jiva</Name>
+        <foundIn>Elder's Recess</foundIn>
+        <species>Elder Dragon</species>
+        <AvgSize>4509</AvgSize>
+        <HP>16080</HP>
+        <description>Xeno'jiiva is an Elder Dragon and the Final Boss in the Story Mode of Monster Hunter World (MHW). It is the juvenile form of Safi'jiiva.</description>
+        <weaknesses>
+            <fire>false</fire>
+            <thunder>false</thunder>
+            <water>true</water>
+            <ice>false</ice>
+            <dragon>true</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>true</fire>
+            <thunder>true</thunder>
+            <water>false</water>
+            <ice>true</ice>
+            <dragon>false</dragon>
+        </resistances>
+    </Monster>
+
+    <Monster id="4">
+        <Name>Stygian Zinogre</Name>
+        <foundIn>Guiding Lands</foundIn>
+        <species>Fanged Wyvern</species>
+        <AvgSize>1943.34</AvgSize>
+        <HP>21,000</HP>
+        <description>Stygian Zinogre is a Large Monster in Monster Hunter World (MHW). Stygian Zinogre is the 2nd free major title update for the Iceborne Expansion that is set to be released on December 5, 2019 (March 12, 2020 for the PC).(Jinōga ashu) in Japanese. It is a subspecies of Zinogre.</description>
+        <weaknesses>
+            <fire>false</fire>
+            <thunder>true</thunder>
+            <water>true</water>
+            <ice>false</ice>
+            <dragon>false</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>true</fire>
+            <thunder>false</thunder>
+            <water>false</water>
+            <ice>true</ice>
+            <dragon>false</dragon>
+        </resistances>
+    </Monster>
+
+    <Monster id="5">
+        <Name>Yian Garuga</Name>
+        <foundIn>Guiding Lands</foundIn>
+        <species>Bird Wyvern</species>
+        <AvgSize>15000</AvgSize>
+        <HP>22,050</HP>
+        <description>A short-tempered bird wyvern marked by its hard, black scales and impressive mane. It strikes with its distinctive beak.</description>
+        <weaknesses>
+            <fire>false</fire>
+            <thunder>false</thunder>
+            <water>true</water>
+            <ice>false</ice>
+            <dragon>true</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>true</fire>
+            <thunder>true</thunder>
+            <water>false</water>
+            <ice>true</ice>
+            <dragon>false</dragon>
+        </resistances>
+    </Monster>
+
+    <Monster id="6">
+        <Name>Ebony Odogaron</Name>
+        <foundIn>All biomes</foundIn>
+        <species>Fanged Wyvern</species>
+        <AvgSize>1542.34</AvgSize>
+        <HP>19,200</HP>
+        <description>Ebony Odogaron is a Large Monster in Monster Hunter World (MHW).Odogaron ashu in Japanese. It was added with the Iceborne Expansion on Sept 6th 2019. It is a subspecies of Odogaron.</description>
+        <weaknesses>
+            <fire>true</fire>
+            <thunder>true</thunder>
+            <water>true</water>
+            <ice>true</ice>
+            <dragon>false</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>false</fire>
+            <thunder>false</thunder>
+            <water>false</water>
+            <ice>false</ice>
+            <dragon>true</dragon>
+        </resistances>
+    </Monster>
+
+    <Monster id="7">
+        <Name>Velkhana</Name>
+        <foundIn>All biomes</foundIn>
+        <species>Elder Dragon</species>
+        <AvgSize>2800,06</AvgSize>
+        <HP>23,400</HP>
+        <description>Velkhana is a Large Monster in Monster Hunter World (MHW). It was added with the Iceborne Expansion on Sept 6th 2019.Iverukāna in Japanese.</description>
+        <weaknesses>
+            <fire>true</fire>
+            <thunder>true</thunder>
+            <water>false</water>
+            <ice>false</ice>
+            <dragon>true</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>false</fire>
+            <thunder>false</thunder>
+            <water>true</water>
+            <ice>true</ice>
+            <dragon>false</dragon>
+        </resistances>
+    </Monster>
+    <Monster id="8">
+        <Name>Kushala Daora</Name>
+        <foundIn>Ancient Forest, Elder's Recess</foundIn>
+        <species>Elder Dragon</species>
+        <AvgSize>1987,54</AvgSize>
+        <HP>18,000</HP>
+        <description>Kushala Daora is an Elder Dragon in Monster Hunter World (MHW).</description>
+        <weaknesses>
+            <fire>false</fire>
+            <thunder>true</thunder>
+            <water>false</water>
+            <ice>false</ice>
+            <dragon>true</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>false</fire>
+            <thunder>false</thunder>
+            <water>true</water>
+            <ice>true</ice>
+            <dragon>false</dragon>
+        </resistances>
+    </Monster>
+    <Monster id="9">
+        <Name>Nargacuga</Name>
+        <foundIn>Coral Highlands, Ancinet Forest</foundIn>
+        <species>Flying Wyvern</species>
+        <AvgSize>20043,</AvgSize>
+        <HP>20160</HP>
+        <description>flying wyvern covered in pitch black fur.
+        It is extremely agile, especially on the ground, moving with explosive bursts of speed.</description>
+        <weaknesses>
+            <fire>true</fire>
+            <thunder>true</thunder>
+            <water>false</water>
+            <ice>false</ice>
+            <dragon>false</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>false</fire>
+            <thunder>false</thunder>
+            <water>true</water>
+            <ice>true</ice>
+            <dragon>true</dragon>
+        </resistances>
+    </Monster>
+    <Monster id="10">
+        <Name>Vaal Hazak</Name>
+        <foundIn>Rotten Vale</foundIn>
+        <species>Elder Dragon</species>
+        <AvgSize>2200</AvgSize>
+        <HP>9400</HP>
+        <description>A grotesque Elder Dragon, that inhabits the deepest part of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.</description>
+        <weaknesses>
+            <fire>true</fire>
+            <thunder>false</thunder>
+            <water>false</water>
+            <ice>false</ice>
+            <dragon>true</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>false</fire>
+            <thunder>false</thunder>
+            <water>true</water>
+            <ice>false</ice>
+            <dragon>false</dragon>
+        </resistances>
+    </Monster>
+    <Monster id="11">
+        <Name>Nergigante</Name>
+        <foundIn>Wildspire Waste, Elder's Recess</foundIn>
+        <species>Elder Dragon</species>
+        <AvgSize>1987,43</AvgSize>
+        <HP>25000</HP>
+        <description>A terrible elder dragon that appears when other elders are in the vicinity. Its penchant for destruction is well documented.</description>
+        <weaknesses>
+            <fire>false</fire>
+            <thunder>true</thunder>
+            <water>false</water>
+            <ice>false</ice>
+            <dragon>true</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>false</fire>
+            <thunder>false</thunder>
+            <water>false</water>
+            <ice>false</ice>
+            <dragon>false</dragon>
+        </resistances>
+    </Monster>
+    <Monster id="12">
+        <Name>Bazelguese</Name>
+        <foundIn>All biomes</foundIn>
+        <species>Elder Dragon</species>
+        <AvgSize>1900.43</AvgSize>
+        <HP>4500</HP>
+        <description>A nefarious flying wyvern that travels the New World in search of prey. It scatters explosive scales over a wide area to prey on whatever gets caught in the blast.</description>
+        <weaknesses>
+            <fire>false</fire>
+            <thunder>true</thunder>
+            <water>true</water>
+            <ice>true</ice>
+            <dragon>true</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>true</fire>
+            <thunder>false</thunder>
+            <water>false</water>
+            <ice>false</ice>
+            <dragon>false</dragon>
+        </resistances>
+    </Monster>
+    <Monster id="13">
+        <Name>Brachydios</Name>
+        <foundIn>Elder's Recess, Guiding Lands</foundIn>
+        <species>Elder Dragon</species>
+        <AvgSize>1700.23</AvgSize>
+        <HP>19,136</HP>
+        <description>This marine-blue brute wyvern uses its saliva to prime the sticky slime coating its massive arms, rendering it highly explosive.</description>
+        <weaknesses>
+            <fire>false</fire>
+            <thunder>false</thunder>
+            <water>true</water>
+            <ice>true</ice>
+            <dragon>false</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>true</fire>
+            <thunder>true</thunder>
+            <water>false</water>
+            <ice>false</ice>
+            <dragon>true</dragon>
+        </resistances>
+    </Monster>
+    <Monster id="14">
+        <Name>Anjanath</Name>
+        <foundIn>Ancient Forest, Wildspire Waste</foundIn>
+        <species>Brute Wvyvern</species>
+        <AvgSize>1767,5</AvgSize>
+        <HP>3500</HP>
+        <description>The Anjanath patrols the Ancient Forest looking for its favorite meal, Aptonoth.
+            This belligerent monster will attack anything without the slightest provocation</description>
+        <weaknesses>
+            <fire>false</fire>
+            <thunder>true</thunder>
+            <water>true</water>
+            <ice>true</ice>
+            <dragon>false</dragon>
+        </weaknesses>
+        <resistances>
+            <fire>true</fire>
+            <thunder>false</thunder>
+            <water>false</water>
+            <ice>false</ice>
+            <dragon>true</dragon>
+        </resistances>
+    </Monster>
+</AllMonsters>
